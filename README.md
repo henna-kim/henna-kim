@@ -5,14 +5,17 @@
 
 - 🌱 I’m currently learning **OpenCV, Machine Learning, Neural Network**
 
+- 👨‍💻 You can see my current project on [https://www.canva.com/design/DAE47eCgZtg/B9wrxp3v-Bwa6C7Qqdmrew/view?utm_content=DAE47eCgZtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE47eCgZtg/B9wrxp3v-Bwa6C7Qqdmrew/view?utm_content=DAE47eCgZtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - 📫 How to reach me **juhae.kim20@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ju-hae-kim-2a10ab77/](https://www.linkedin.com/in/ju-hae-kim-2a10ab77/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MA-5uoriCYKRFaoFb4Vl14Tx-BXVECtt/view?usp=sharing](https://drive.google.com/file/d/1MA-5uoriCYKRFaoFb4Vl14Tx-BXVECtt/view?usp=sharing)
 
 - ⚡ Fun fact **I am Foodie :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ju-hae-kim-2a10ab77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ju-hae-kim-2a10ab77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
