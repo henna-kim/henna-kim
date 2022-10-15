@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ju-Hae</h1>
+<h1 align="center">Hi 👋, I'm Henna</h1>
 <h3 align="center">A passionate Data Scientist & Project Manager in Berlin</h3>
 
-- 🔭 I’m currently working on **The Way of Yoga**
+- 🔭 I’m currently working on my startup **the Way**: a new type of future healthcare and exercise app
 
-- 🌱 I’m currently learning **OpenCV, Machine Learning, Neural Network**
+- 🌱 I’m currently learning **OpenCV, Machine Learning, Neural Network, Unity**
 
-- 👨‍💻 You can see my current project on [https://www.canva.com/design/DAE47eCgZtg/B9wrxp3v-Bwa6C7Qqdmrew/view?utm_content=DAE47eCgZtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE47eCgZtg/B9wrxp3v-Bwa6C7Qqdmrew/view?utm_content=DAE47eCgZtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👨‍💻 You can visit the website of the **the WAY** on [https://the-way.live
 
 - 📫 How to reach me **juhae.kim20@gmail.com**
 
