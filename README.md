@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenCV, Machine Learning, Neural Network, Unity**
 
-- 👨‍💻 You can visit the website of the **the WAY** on [https://the-way.live
+- 👨‍💻 You can visit the website of the **the WAY** on https://the-way.live
 
 - 📫 How to reach me **juhae.kim20@gmail.com**
 
